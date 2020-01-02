@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" time="3.886">
+  <testsuite name="Query.chats" errors="0" failures="0" skipped="0" timestamp="2020-01-02T07:11:04" time="3.099" tests="1">
+    <testcase classname="Query.chats should fetch all chats" name="Query.chats should fetch all chats" time="0.029">
+    </testcase>
+  </testsuite>
+</testsuites>
